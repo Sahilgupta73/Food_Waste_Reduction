@@ -1,0 +1,7 @@
+{
+  "name": "Food Waste Reduction Platform",
+  "description": "A platform connecting restaurants, NGOs, and volunteers to redistribute surplus food and reduce waste.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
